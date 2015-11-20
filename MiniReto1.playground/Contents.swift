@@ -20,7 +20,7 @@ for var numero : Int = 0 ; numero <= maximo ; numero++ {
     //numero entre el rango 30 a 40 inclusive los dos
     if (numero >= 30 && numero <= 40) {
         print("\(numero) Viva Swift!!!")
-    }
+    } 
     
 }
 
